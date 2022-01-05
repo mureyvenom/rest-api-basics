@@ -1,7 +1,0 @@
-{
-    "env": {
-        "MONGO_USER": "first-app",
-        "MONGO_PASSWORD": "certification231",
-        "MONGO_DEFAULT_DB": "messages"
-    }
-}
